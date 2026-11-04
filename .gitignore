@@ -1,0 +1,8 @@
+node_modules/
+dist/
+data/
+workspace/
+.env
+.env.local
+*.log
+.DS_Store

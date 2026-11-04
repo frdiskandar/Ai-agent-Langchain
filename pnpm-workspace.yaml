@@ -1,0 +1,6 @@
+allowBuilds:
+  better-sqlite3: true
+  esbuild: true
+minimumReleaseAgeExclude:
+  - '@langchain/langgraph-sdk@1.12.10'
+  - '@langchain/langgraph@1.6.1'
